@@ -55,12 +55,4 @@
     <li><a href="https://www.youtube.com/watch?v=YYwjq5v-ALA">Sonido de láser</a> que usé en el repositorio.</li>
     <li><a href="https://www.youtube.com/watch?v=GEo1zya7FyA">Sonido de background</a> que usé en el repositorio.</li>
   </ol>
-  
-  <li>Repositorio relacionado donde también uso sonidos en java.</li>
-
-  <ol>
-    <li>
-      <a href="https://github.com/JeanCarlosSC/pong">Pong game in java</a>
-    </li>
-  </ol>
 </ol>
